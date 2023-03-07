@@ -1,0 +1,10 @@
+venv/*
+raw_output/*
+final_output/*
+models/*
+data/*
+__pycache__
+__pycache__/*
+*.h5
+*.pickle
+libdevice*
